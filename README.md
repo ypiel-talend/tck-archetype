@@ -3,7 +3,7 @@ How to build this archetype:
 mvn clean install
 ```
 
-Then you can create a new (Talend Component Kit)[https://talend.github.io/component-runtime/main/latest/index.html] (TCK) project with:
+Then you can create a new [Talend Component Kit](https://talend.github.io/component-runtime/main/latest/index.html) (TCK) project with:
 ```sh
 mvn archetype:generate -DarchetypeGroupId=org.github.ypiel.tck.archetype \
                        -DarchetypeArtifactId=new-tck-container-archetype \
