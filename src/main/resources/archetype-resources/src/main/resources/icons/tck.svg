@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="7.917" cy="7.983" rx="6.592" ry="5.582"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; font-weight: 700; text-anchor: middle; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0.999987, 0.00533, -0.00533, 0.999987, 6.79089, 4.621119)"><tspan x="1.027" y="4.538">TCK</tspan><tspan x="1.0269999504089355" dy="1em">​</tspan></text>
+</svg>
